@@ -7,7 +7,7 @@ pygame.init()
 SIZE = width, height = 501, 501
 CENTER = (width // 2, height // 2)
 RADIUS = 20
-SPEED = 2
+SPEED = 1
 
 screen = pygame.display.set_mode(SIZE)
 pygame.display.set_caption("P5")
