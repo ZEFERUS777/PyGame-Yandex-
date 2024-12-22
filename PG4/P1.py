@@ -1,3 +1,5 @@
+from imaplib import Flags
+
 import pygame
 import sys
 
